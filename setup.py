@@ -27,7 +27,7 @@ from setuptools.command.test import test as TestCommand
 import sys, os
 
 PROJECT = 'wishbone-encode-graphite'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 install_requires = [
     'wishbone>=2.1.1',
