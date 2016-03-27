@@ -31,7 +31,7 @@ from os import getpid
 
 class Graphite(Actor):
 
-    '''**Converts the Wishbone metric format to Graphite format.**
+    '''**Convert the Wishbone metric format to Graphite.**
 
     Incoming metrics have following format:
 
