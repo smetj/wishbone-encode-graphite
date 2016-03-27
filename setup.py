@@ -26,7 +26,7 @@ from setuptools import setup, find_packages
 from setuptools.command.test import test as TestCommand
 import sys, os
 
-PROJECT = 'wishbone_encode_graphite'
+PROJECT = 'wishbone-encode-graphite'
 VERSION = '0.1.0'
 
 install_requires = [
@@ -61,7 +61,7 @@ setup(
     name=PROJECT,
     version=VERSION,
 
-    description='Converts the Wishbone metric format to Graphite format.',
+    description='A Wishbone encode module to convert the Wishbone metric format to Graphite.',
     long_description=long_description,
 
     author='Jelle Smet',
