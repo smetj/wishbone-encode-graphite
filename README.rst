@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -12,7 +14,7 @@
     wishbone.encode.graphite
     ========================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     Converts the Wishbone metric format to Graphite format.
     -------------------------------------------------------
@@ -43,4 +45,3 @@
 
             - outbox
                |  Outgoing messges
-
