@@ -23,4 +23,4 @@
 #
 
 
-from graphite import Graphite
+from .graphite import Graphite
